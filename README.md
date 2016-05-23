@@ -6,6 +6,6 @@ Liczby wczytywane są z podanej przez użytkownika ścieżki do pliku .txt
 
 Przecinek w podawanych liczbach powinien być w formacie "."
 
-Podawane liczby muszą być w systemie dziesiętnym, bez notacji wykładniczej.
+Podawane liczby muszą być w systemie dziesiętnym, bez notacji wykładniczej z przecinkiem. Jeśli wartość liczby po przecinku wynosi zero, to należy wypisać ".0". W innym formacie program będzie generował błędy.
 
 By uruchomić program należy pobrać wszystkie pliki. Środowisko, w którym był testowany program to Microsoft Visual Sudio 2010. Po otwarciu pustego projektu do folderu Header Files należy dodać wszystkie trzy pliki nagłówkowe, a do folderu Source Files pliki z rozszerzeniem .cpp.
